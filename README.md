@@ -5,3 +5,4 @@ This repository contains my journey learning PyTorch through Google Colab notebo
 ## Notebooks Included
 - **Basic Tensor Operations**: Introduction to PyTorch tensors and basic operations.
 - **Linear Regression with PyTorch**: Implementing linear regression from scratch.
+- ** MNIST Handwritten digit recognition**
