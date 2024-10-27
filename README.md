@@ -9,3 +9,5 @@ This repository contains my journey learning PyTorch through Google Colab notebo
 - **Logistic Regression with pytorch**: Implementing from scratch.
 - **Dataset and DataLoader Usage
 - **Transform(ToTensor and Multtransform)
+_ **ActivationFunctions
+_ **Feed Forward neural network on MNIST Dataset
