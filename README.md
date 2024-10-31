@@ -11,3 +11,5 @@ This repository contains my journey learning PyTorch through Google Colab notebo
 - **Transform(ToTensor and Multtransform)
 _ **ActivationFunctions
 _ **Feed Forward neural network on MNIST Dataset
+_ **CNN implementation
+_ **Transfer Learning
